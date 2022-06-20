@@ -1,0 +1,1 @@
+# Curse2.Algorithm
