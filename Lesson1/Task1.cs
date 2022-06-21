@@ -66,7 +66,7 @@ namespace Lesson1
             }
         }
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.Title = "Lesson 1, Task 1";
 
